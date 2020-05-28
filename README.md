@@ -1,1 +1,3 @@
-This is my repository and file.
+#About me
+
+This is my about me project. It's not *everything* about me, but it's a start.
